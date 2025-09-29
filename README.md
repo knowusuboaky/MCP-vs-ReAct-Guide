@@ -1,6 +1,5 @@
 # MCP Server vs ReAct Agent Loop
 
-You’re making a sharp connection 👍.
 An **MCP server** *is similar in spirit* to a **ReAct agent loop**, but they sit at different layers.
 
 ---
