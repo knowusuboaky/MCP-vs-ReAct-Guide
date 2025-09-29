@@ -65,5 +65,3 @@ LLM (ReAct Agent) ── decides tool ──► JSON-RPC Request
      │
      └── JSON-RPC Response ──► back to LLM for reasoning loop
 ```
-
-Would you like me to **expand this README with example code snippets** (one for the ReAct loop prompt, one for the MCP server JSON-RPC request) so it’s not just conceptual but also practical?
